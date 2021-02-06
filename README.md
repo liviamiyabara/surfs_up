@@ -17,6 +17,7 @@ June histogram
 ![ScreenShot]( https://github.com/liviamiyabara/surfs_up/blob/main/Resources/june_histogram.png)
 
 December statistics
+
 ![ScreenShot]( https://github.com/liviamiyabara/surfs_up/blob/main/Resources/dec_stats.png)
 
 
